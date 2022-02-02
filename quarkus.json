@@ -1,0 +1,12 @@
+{
+  "name": "test-project",
+  "version": "1.0.0",
+  "description": "A Quarkus project",
+  "quarkusVersion": "999-SNAPSHOT",
+  "extensions" : [
+    "resteasy"
+  ],
+  "dependencies": {
+    "commons-io:commons-io": "2.11.0"
+  }
+}
